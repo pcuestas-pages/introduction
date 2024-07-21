@@ -9,7 +9,7 @@ I'm coming to Switzerland in September to begin my master's in Mathematics at ET
 
 - I have just finished a double bachelor's degree in Mathematics and Computer Science at the Autonomous University of Madrid. I'm starting my master's with the hope of later pursuing a PhD in Mathematics at ETH.
 
-- I speak Spanish and English fluently and got a B2 in German in 2019. Although my German is currently a bit rusty, I hope to improve it during the master's.
+- I speak English and Spanish fluently and got a B2 in German in 2019. Although my German is currently a bit rusty, I hope to improve it during the master's.
 
 - I am a tidy, non-smoking person who likes to keep my living space clean and organized, so I take my time to do chores (of course, without being obsessive about it).
 
