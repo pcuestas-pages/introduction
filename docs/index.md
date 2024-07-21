@@ -1,8 +1,9 @@
-Hi! My name is Pablo Cuesta Sierra.
+Hi!
 
+My name is Pablo Cuesta Sierra.
 I'm a 22-year-old student from Madrid, Spain, and I'm coming to Switzerland in September to begin my master's degree in Mathematics at ETH.
 
-![](assets/introduction/yo.jpg)
+<img src="assets/introduction/yo.jpg" style="max-width: 300pt;">
 
 #### A bit about me
 
